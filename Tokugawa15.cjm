@@ -1,5 +1,5 @@
-CJM RESET
-CJM vr=2
+CJMP RESET
+CJMP vr=2
 CJM CUT,em=0,ev=2,cd=0,ae=1
 #
 mp3\Tokugawa15.mp3
